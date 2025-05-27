@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "631170916854",
+    "project_id": "hexenapp-backend",
+    "storage_bucket": "hexenapp-backend.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631170916854:android:6c3a113950cce3f457a7d7",
+        "android_client_info": {
+          "package_name": "com.example.hexenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631170916854-8id4b90i54g8dc3kjdh5amkpc6khh2th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hexenapp",
+            "certificate_hash": "fe060dfeb53f57a690fd32f7519fd3f71f0945d5"
+          }
+        },
+        {
+          "client_id": "631170916854-2odhfng0p2t9gfiu2s79hojrd8hm7hrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLQQZCmR57a35E5wHWIQKLuHaQ5POO6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631170916854-2odhfng0p2t9gfiu2s79hojrd8hm7hrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
